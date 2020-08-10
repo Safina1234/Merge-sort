@@ -1,2 +1,2 @@
 # Merge-sort
-Merge sort implementation using generics
+Merge sort implementation using generics using java
